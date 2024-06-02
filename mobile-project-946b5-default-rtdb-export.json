@@ -1,0 +1,53 @@
+{
+  "Products": {
+    "-NwzntiYDeP3k4Wa7PAj": {
+      "category": "Indoor",
+      "image": "https://th.bing.com/th/id/OIP.DO20AVRSs8QAbVrmKvcjAQHaLG?rs=1&pid=ImgDetMain",
+      "name": "PEACE LILY",
+      "price": 13.47
+    },
+    "-Nwzntj7OaQGZA7CHZ7Y": {
+      "category": "Indoor",
+      "image": "https://th.bing.com/th/id/OIP.JYvnjS05YTV9BqfBBDqsnAHaHa?rs=1&pid=ImgDetMain",
+      "name": "FIDDLE LEAF FIG",
+      "price": 53.89
+    },
+    "-Nwzntj7OaQGZA7CHZ7Z": {
+      "category": "Outdoor",
+      "image": "https://th.bing.com/th/id/R.df9c82b435ada119400a034b75d1be6d?rik=NKaVdh91cK0zjA&riu=http%3a%2f%2fwww.interiorofficeplants.com%2fwp-content%2fuploads%2f2010%2f11%2f663857_29157577.jpg&ehk=IKzNF8xNBcPmaLdXaRR%2bV5o5aVIPLZvyc4AVn%2fs3LqM%3d&risl=&pid=ImgRaw&r=0",
+      "name": "BROMELIAD",
+      "price": 9.63
+    },
+    "-NwzntjCTEJDa-kTiwN-": {
+      "category": "Outdoor",
+      "image": "https://th.bing.com/th/id/OIP.BNTxTS2956YQ4T7XkR4agwHaGl?rs=1&pid=ImgDetMain",
+      "name": "CALADIUM",
+      "price": 7.26
+    },
+    "-NwzntjCTEJDa-kTiwN0": {
+      "category": "Seed",
+      "image": "https://th.bing.com/th/id/OIP.Wv0xGrbpl68C0uebk7qFrwHaHa?rs=1&pid=ImgDetMain",
+      "name": "CINNAMON",
+      "price": 1.65
+    },
+    "-NwzntjFyzaedNSXxuTn": {
+      "category": "Seed",
+      "image": "https://th.bing.com/th/id/OIP.HzTcVZ5WIpXAp8FrFqYB3wHaHa?rs=1&pid=ImgDetMain",
+      "name": "SUNFLOWER",
+      "price": 1.66
+    },
+    "-NwzntjJETXUd9fh6T7S": {
+      "category": "Accessory",
+      "image": "https://th.bing.com/th/id/OIP.DfStVxU1uMbwIaQFPYQLUAHaHa?rs=1&pid=ImgDetMain",
+      "name": "WATERING CAN",
+      "price": 9.81
+    },
+    "-NwzntjPomor84d4i2Ai": {
+      "category": "Accessory",
+      "image": "https://th.bing.com/th/id/R.6e1ae8139ab5dfe6c244d0188d866dd5?rik=v3bbpAdINzYnuw&pid=ImgRaw&r=0",
+      "name": "GLOVES",
+      "price": 5.77,
+      "quantity": 20
+    }
+  }
+}
